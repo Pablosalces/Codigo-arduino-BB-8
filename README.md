@@ -5,7 +5,7 @@ Para desplazamientos laterales, haremos uso de la inercia del robot al desplazar
 El robot se controla mediante la app Dabble, disponible tanto en Android como en iOS, gracias a un módulo de Bluetooth.
 Adicionalmente, se ha dispuesto de un altavoz para emitir melodias con el pulso de ciertos botones.
 
-Adjuntamos videos del funcionamiento, de los sonidos y de una prueba de movimiento:
+Adjuntamos videos del funcionamiento y de los sonidos:
 
 https://github.com/Pablosalces/Codigo-arduino-BB-8/assets/169473014/c47f55b4-10db-4d3f-a264-f0501b8c7e96
 https://github.com/Pablosalces/Codigo-arduino-BB-8/assets/169473014/7503d0d5-653c-4dc6-85b2-c35ea0216505
